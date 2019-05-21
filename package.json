@@ -1,0 +1,23 @@
+{
+  "name": "frequencybot2",
+  "version": "1.0.0",
+  "description": "Create MIDI files with random notes within a chosen scale",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewPoppe/FrequencyBot2_Electron.git"
+  },
+  "author": "Andrew Poppe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AndrewPoppe/FrequencyBot2_Electron/issues"
+  },
+  "homepage": "https://github.com/AndrewPoppe/FrequencyBot2_Electron#readme",
+  "devDependencies": {
+    "electron": "^5.0.1"
+  }
+}
